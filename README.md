@@ -44,3 +44,7 @@ print "value is not present in the array "
 Step 6: exit  
 
 ![image](https://user-images.githubusercontent.com/76811184/234406230-2fb839bc-752e-400a-bbe9-5a4aea85de28.png)
+
+# Output
+![image](https://user-images.githubusercontent.com/76811184/234408453-25169431-bf64-484d-a495-900a7cc3728d.png)
+
